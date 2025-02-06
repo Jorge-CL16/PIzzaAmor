@@ -8,7 +8,7 @@ namespace ApiPizza.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Jorge", "Jesus Santana","Juan Pablo"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Jorge Diaz", "Jesus Santana","Juan Pablo"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
